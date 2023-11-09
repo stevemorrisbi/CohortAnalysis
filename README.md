@@ -1,2 +1,2 @@
 # CohortAnalysis
-in development 
+Conducting a cohort analysis from sales data. 
